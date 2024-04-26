@@ -7,12 +7,11 @@
 👯 I love to work challenging on Data Science projects. [My Portfolio](https://www.youtube.com/c/MagdelineHuang](https://linktr.ee/aarzoo_chourasia))<br/>
 🌱 Currently learning more about Generative AI and Data Engineering.<br/>
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/aarzoo-chourasia-dataanalyst)<br/>
-😄 Pronouns: She/Her.<br/>
 ⚡ My forte: 
-            💼 As a mentor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data science.
+            💼 As a mentor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data science.<br/>
             🌟 People person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and 
-                believe in the power of teamwork to achieve remarkable results.
-            💡 Always up for exploring new technologies and trends, I'm driven by curiosity, go-getter attitude and a desire to push the boundaries of what's possible in the world of data science.
+                believe in the power of teamwork to achieve remarkable results.<br/>
+            💡 Always up for exploring new technologies and trends, I'm driven by curiosity, go-getter attitude and a desire to push the boundaries of what's possible in the world of data science.<br/>
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
