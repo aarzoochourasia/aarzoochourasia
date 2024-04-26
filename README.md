@@ -2,7 +2,7 @@
 
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 👩🏻‍💻 A mathematics buff, explorer, and data science professional.<br/>
 👯 I love to work challenging on Data Science projects. [My Portfolio](https://www.youtube.com/c/MagdelineHuang](https://linktr.ee/aarzoo_chourasia))<br/>
 🌱 Currently learning more about Generative AI and Data Engineering.<br/>
@@ -23,4 +23,4 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
--->
+
