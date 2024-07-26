@@ -10,7 +10,7 @@
 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data science.<br/>
 🚀 Whether you're a fellow data enthusiast, a curious learner, or someone with a shared passion for technology, I'd love to hear from you!<br/>
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/aarzoo-chourasia-datascientist)<br/>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
