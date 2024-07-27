@@ -5,7 +5,8 @@
 -->
 👩🏻‍💻 A mathematics buff, explorer, and data science professional.<br/>
 👯 I love to work on challenging Data Science projects and enjoy diving deep into data using Python , Machine Learning , and Data Analysis/Visualization tools. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
-🌱 Currently learning more about Generative AI and Data and Engineering.<br/>
+🌱 Learning more about Generative AI and Data Engineering.<br/>
+:books: 
 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data science.<br/>
 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data science.<br/>
