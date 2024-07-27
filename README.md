@@ -3,10 +3,11 @@
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👩🏻‍💻 A mathematics buff, explorer, and data science professional.<br/>
+👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data science professional.<br/>
 👯 I love to work on challenging Data Science projects and enjoy diving deep into data using Python , Machine Learning , and Data Analysis/Visualization tools. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
 🌱 Learning more about Generative AI and Data Engineering.<br/>
-:books: 
+# 📚 Technical books I am currently reading <br/>
+- [Machine Learning Algorithms in Depth](https://www.goodreads.com/book/show/123183388-machine-learning-algorithms-in-depth?ref=nav_sb_ss_1_36) by Vadim Smolyakov
 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data science.<br/>
 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data science.<br/>
