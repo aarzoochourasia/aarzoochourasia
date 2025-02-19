@@ -4,11 +4,11 @@
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data science professional.<br/>
-- 👯 I love to work on challenging Data Science projects and enjoy diving deep into data using Python , Business Intelligence , Data Analysis and Visualization tools. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
-- 🌱 Learning more about Leveraging Generative AI in BI and Analytics.<br/>
+- 👯 I love to work on challenging Data Analytics projects and enjoy diving deep into data using Python , Business Intelligence , Data Analysis and Visualization tools. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
+- 🌱 Learning more about leveraging Generative AI in BI and Analytics.<br/>
 - 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data science.<br/>
 - 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
-- 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data science.<br/>
+- 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data analytics.<br/>
 - 🚀 Whether you're a fellow data enthusiast, a curious learner, or someone with a shared passion for BI, I'd love to hear from you!<br/>
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
 
