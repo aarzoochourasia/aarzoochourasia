@@ -3,17 +3,17 @@
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data engineer.<br/>
-- 👯 I love to work on challenging Data Engineering projects and build robust and scalalble data systems. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
-- 🌱 Learning more about leveraging Generative AI in Data Engineering.<br/>
-- 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data engineering.<br/>
-- 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
-- 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data engineering.<br/>
-- 🚀 Whether you're a fellow data enthusiast, a curious learner, or someone with a shared passion for data engineering, I'd love to hear from you!<br/>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
+👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data engineer.<br/>
+👯 I love to work on challenging Data Engineering projects and build robust and scalalble data systems. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
+🌱 Learning more about leveraging Generative AI in Data Engineering.<br/>
+💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data engineering.<br/>
+🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
+💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data engineering.<br/>
+🚀 Whether you're a fellow data enthusiast, a curious learner, or someone with a shared passion for data engineering, I'd love to hear from you!<br/>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
 
 ### 📚 Technical books I am currently reading <br/>
-- [Optimizing DAX]([https://www.sqlbi.com/books/optimizing-dax-second-edition/](https://www.oreilly.com/library/view/system-design-on/9781098146887/?_gl=1*1llju0p*_ga*MTEyODYyNTg0My4xNzM5NjE3Njgw*_ga_092EL089CH*czE3NTExOTEwNDkkbzI0JGcxJHQxNzUxMTkxMTA1JGo0JGwwJGgw)) by Jayanth Kumar & Mandeep Singh.<br/>
+- [System Design on AWS](https://www.oreilly.com/library/view/system-design-on/9781098146887/?_gl=1*1llju0p*_ga*MTEyODYyNTg0My4xNzM5NjE3Njgw*_ga_092EL089CH*czE3NTExOTEwNDkkbzI0JGcxJHQxNzUxMTkxMTA1JGo0JGwwJGgw) by Jayanth Kumar & Mandeep Singh.<br/>
 - [Database Internals: A deep-dive into how distributed data systems work](https://www.goodreads.com/book/show/44647144-database-internals) by Alex Petrov. <br/>
 - [Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball & Margy Ross. <br/>
 
