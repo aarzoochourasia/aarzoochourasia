@@ -5,7 +5,7 @@
 -->
 👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data engineer.<br/>
 👯 I love to work on challenging Data Engineering projects and build robust and scalable data systems. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
-🌱 Learning more about leveraging Generative AI in Data Engineering.<br/>
+🌱 Learning more about leveraging LLMs in Data Engineering.<br/>
 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data engineering.<br/>
 🌟 I'm a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
 💡 Always up for exploring new technologies and trends. I'm driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data engineering.<br/>
