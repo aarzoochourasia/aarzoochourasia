@@ -3,7 +3,7 @@
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👩🏻‍💻 A mathematics buff, bibliophile, explorer, and data engineer.<br/>
+👩🏻‍💻 I am a mathematics buff, bibliophile, explorer, and data engineer.<br/>
 👯 I love to work on challenging Data Engineering projects and build robust and scalable data systems. [My Portfolio](https://linktr.ee/aarzoo_chourasia)<br/>
 🌱 Learning more about leveraging LLMs in Data Engineering.<br/>
 💼 As an instructor and lifelong learner, I'm passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data engineering.<br/>
