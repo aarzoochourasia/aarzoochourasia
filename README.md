@@ -3,13 +3,12 @@
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👩🏻‍💻 I am a mathematics buff, bibliophile, explorer, and data engineer.<br/>
+👩🏻‍💻 I am a mathematics buff, bibliophile, and a data engineer.<br/>
 👯 I love to work on challenging Data Engineering projects and build robust and scalable data systems.<!-- [My Portfolio](https://linktr.ee/aarzoo_chourasia)--><br/>
 🌱 Learning more about leveraging LLMs in Data Engineering.<br/>
-💼 As a tech trainer, fast and lifelong learner, I am passionate about sharing knowledge and continuously expanding my own horizons in the ever-evolving field of data engineering.<br/>
-🌟 I am a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and believe in the power of teamwork to achieve remarkable results.<br/>
-💡 Always up for exploring new technologies and trends. I am driven by curiosity, a go-getter attitude and desire to push the boundaries of what's possible in the world of data engineering.<br/>
-🚀 Whether you're a fellow data enthusiast, a curious learner, or someone with a shared passion for data engineering, I would love to hear from you!<br/>
+💼 As a technical trainer and lifelong learner, I am passionate about sharing knowledge and continuously evolving in the dynamic field of data engineering.<br/>
+🌟 I am a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and achieve remarkable results.<br/>
+🚀 Whether you're a fellow tech enthusiast, a curious learner, or someone with a shared passion for data engineering, I would love to hear from you!<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
 
 ### 📚 Technical books I am currently reading <br/>
@@ -18,7 +17,6 @@
 - [Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball & Margy Ross. <br/>
 
 ### 💻 Tech Stack
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
@@ -26,9 +24,7 @@
 [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-
-
-
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
