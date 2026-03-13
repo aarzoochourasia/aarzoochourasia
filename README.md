@@ -4,12 +4,12 @@
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 👩🏻‍💻 A mathematics buff, bibliophile, and a data engineer.<br/>
-👯 Love to work on challenging Data Engineering projects and build scalable data systems.<!-- [My Portfolio](https://aarzoochourasia.github.io/My-Portfolio/)--><br/>
+👯 Love to work on challenging Data Engineering projects and build scalable data systems.[My Portfolio](https://aarzoochourasia.github.io/My-Portfolio/)<br/>
 🌱 Learning more about leveraging LLMs for Data Engineering.<br/>
-💼 Started off as an Assistant Technical Trainer right after Graduation and also mentored new joinees in my teams.<br/>
+💼 Started off as an Assistant Technical Trainer right after Graduation and also mentored new joinees in my teams.[My Blogs](https://aarzoochourasia.github.io/My-Portfolio/#articles)<br/>
 🌟 A people person and would love to hear from you!.<br/>
 🚀 Whether you're a fellow tech enthusiast, a curious learner, or someone with a shared passion for data engineering,<br/>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-dataengineer/)<br/>
 
 ### 📚 Technical books I am currently reading <br/>
 - [System Design on AWS](https://www.oreilly.com/library/view/system-design-on/9781098146887/?_gl=1*1llju0p*_ga*MTEyODYyNTg0My4xNzM5NjE3Njgw*_ga_092EL089CH*czE3NTExOTEwNDkkbzI0JGcxJHQxNzUxMTkxMTA1JGo0JGwwJGgw) by Jayanth Kumar & Mandeep Singh.<br/>
