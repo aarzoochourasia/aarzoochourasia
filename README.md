@@ -3,12 +3,12 @@
 <!--
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👩🏻‍💻 I am a mathematics buff, bibliophile, and a data engineer.<br/>
-👯 I love to work on challenging Data Engineering projects and build robust and scalable data systems.<!-- [My Portfolio](https://linktr.ee/aarzoo_chourasia)--><br/>
-🌱 Learning more about leveraging LLMs in Data Engineering.<br/>
-💼 As a technical trainer and lifelong learner, I am passionate about sharing knowledge and continuously evolving in the dynamic field of data engineering.<br/>
-🌟 I am a people person with strong leadership qualities, effective communication skills, and a collaborative mindset. I thrive in fast-paced environments and achieve remarkable results.<br/>
-🚀 Whether you're a fellow tech enthusiast, a curious learner, or someone with a shared passion for data engineering, I would love to hear from you!<br/>
+👩🏻‍💻 A mathematics buff, bibliophile, and a data engineer.<br/>
+👯 Love to work on challenging Data Engineering projects and build scalable data systems.<!-- [My Portfolio](https://aarzoochourasia.github.io/My-Portfolio/)--><br/>
+🌱 Learning more about leveraging LLMs for Data Engineering.<br/>
+💼 Started off as an Assistant Technical Trainer right after Graduation and also mentored new joinees in my teams.<br/>
+🌟 A people person and would love to hear from you!.<br/>
+🚀 Whether you're a fellow tech enthusiast, a curious learner, or someone with a shared passion for data engineering,<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aarzoo-chourasia-datascientist/)<br/>
 
 ### 📚 Technical books I am currently reading <br/>
