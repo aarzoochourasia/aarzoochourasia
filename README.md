@@ -4,7 +4,7 @@
 **aarzoochourasia/aarzoochourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 👩🏻‍💻 A mathematics buff, bibliophile, and a data engineer.<br/>
-👯 Love to work on challenging Data Engineering projects. <!--[My Portfolio](https://aarzoochourasia.github.io/My-Portfolio/) <br/> -->
+👯 Love to work on challenging Data Engineering projects. <!--[My Portfolio](https://aarzoochourasia.github.io/My-Portfolio/)--><br/>
 🌱 Learning more about leveraging LLMs for Data Engineering.<br/>
 💼 Started off as an Assistant Technical Trainer and also mentored new joinees in my teams. <!--[My Blogs](https://aarzoochourasia.github.io/My-Portfolio/#articles) ✍️ --><br/>
 🌟 Would be excited to hear from you anything tech, travel, and nature.<br/>
